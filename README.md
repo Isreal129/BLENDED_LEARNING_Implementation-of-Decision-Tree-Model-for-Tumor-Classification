@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # Implementation of Decision Tree Model for Tumor Classification
 <H3>NAME: ISREAL MOSES B</H3>
 <H3>REGISTER NO.: 212221040060</H3>
